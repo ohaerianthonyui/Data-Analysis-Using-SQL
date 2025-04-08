@@ -83,7 +83,8 @@ The following products showed the highest incremental revenue percentage:
 
 These products performed significantly well in driving incremental revenue.
 
-![Incremental sold quantity(ISU%)](https://github.com/user-attachments/assets/7b83cac0-118c-41e7-8a91-db007578d4cc)
+![Incremental revenue of products](https://github.com/user-attachments/assets/8a831dac-e8cb-4d38-ba1a-05e46ff65e94)
+
 
 
 ---
